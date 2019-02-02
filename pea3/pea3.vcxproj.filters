@@ -18,6 +18,15 @@
     <ClInclude Include="pch.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
+    <ClInclude Include="genetic.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Test.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -26,5 +35,37 @@
     <ClCompile Include="pea3.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
+    <ClCompile Include="genetic.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Test.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="br17.txt">
+      <Filter>Pliki zasobów</Filter>
+    </Text>
+    <Text Include="ftv70.txt">
+      <Filter>Pliki zasobów</Filter>
+    </Text>
+    <Text Include="ftv170.txt">
+      <Filter>Pliki zasobów</Filter>
+    </Text>
+    <Text Include="tsp_43.txt">
+      <Filter>Pliki zasobów</Filter>
+    </Text>
+    <Text Include="tsp_171.txt">
+      <Filter>Pliki zasobów</Filter>
+    </Text>
+    <Text Include="tsp_358.txt">
+      <Filter>Pliki zasobów</Filter>
+    </Text>
+    <Text Include="tsp_10.txt">
+      <Filter>Pliki zasobów</Filter>
+    </Text>
   </ItemGroup>
 </Project>
